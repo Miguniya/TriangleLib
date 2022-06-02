@@ -1,0 +1,10 @@
+D:\Code\testForDll\testForDll\bin\Debug\testForDll.exe.config
+D:\Code\testForDll\testForDll\bin\Debug\testForDll.exe
+D:\Code\testForDll\testForDll\bin\Debug\testForDll.pdb
+D:\Code\testForDll\testForDll\bin\Debug\TriangleLibrary.dll
+D:\Code\testForDll\testForDll\bin\Debug\TriangleLibrary.pdb
+D:\Code\testForDll\testForDll\obj\Debug\testForDll.csprojAssemblyReference.cache
+D:\Code\testForDll\testForDll\obj\Debug\testForDll.csproj.CoreCompileInputs.cache
+D:\Code\testForDll\testForDll\obj\Debug\testForDll.csproj.CopyComplete
+D:\Code\testForDll\testForDll\obj\Debug\testForDll.exe
+D:\Code\testForDll\testForDll\obj\Debug\testForDll.pdb
